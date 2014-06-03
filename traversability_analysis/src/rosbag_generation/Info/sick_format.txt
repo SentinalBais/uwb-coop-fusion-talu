@@ -1,0 +1,8 @@
+collumns 1 to 7 used
+1354679075.295688000,12.38,1.57079632679,0,6248537.1805,332945.724396,-41.9785844023,0,8
+   time_stamp        range   bearing     e       x            y              z          scan_index
+        1              2        3        4       5            6              7       8  9
+
+
+LIDAR data appear to be in the sensor frame, therefore it must be converted to a global refference frame 
+using pose data?
